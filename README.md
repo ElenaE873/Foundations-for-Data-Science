@@ -6,4 +6,4 @@ This repository is a base documentation for that process and evolution of that g
 
 To view this content of this repo in Blog format, check out my website here: 
 
-## https://elena-barbulescu.github.io/foundations-for-data-science/
+## https://elena-barbulescu.github.io/FoundationsforDataScience/
